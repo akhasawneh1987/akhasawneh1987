@@ -16,7 +16,7 @@ Researcher and educator with more than ten years of academic experience in Jorda
 ### At a glance
 
 - 33 peer-reviewed journal articles (29 SCI-indexed, 20 in Q1), 5 book chapters and 8 conference papers
-- 2,700+ citations and an h-index of 26 on Google Scholar
+- 2,900+ citations and an h-index of 26 on Google Scholar
 - Two German patents on IoT security and data aggregation
 - Founder of the Cybersecurity Department at Amman Arab University
 - Reviewer for IEEE, Springer, MDPI, Wiley and Hindawi journals; TPC member and program co-chair of international conferences
