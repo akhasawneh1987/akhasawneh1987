@@ -67,4 +67,5 @@ The full list is available on [Google Scholar](https://scholar.google.com.my/cit
 
 ### Contact
 
+a.khasawneh1987@gmail.com  
 akhasawneh@philadelphia.edu.jo
