@@ -17,11 +17,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Citations-2%2C900%2B-1D3557?style=flat-square" alt="Citations"/>
-  <img src="https://img.shields.io/badge/h--index-26-457B9D?style=flat-square" alt="h-index"/>
-  <img src="https://img.shields.io/badge/Journal%20articles-33-2A9D8F?style=flat-square" alt="Journal articles"/>
-  <img src="https://img.shields.io/badge/Q1%20papers-20-6A994E?style=flat-square" alt="Q1 papers"/>
-  <img src="https://img.shields.io/badge/German%20patents-2-E07A5F?style=flat-square" alt="German patents"/>
+  <a href="https://scholar.google.com.my/citations?user=BCMmCnsAAAAJ&hl=en"><img src="https://img.shields.io/badge/Citations-2%2C900%2B-1D3557?style=flat-square" alt="Citations"/></a>
+  <a href="https://scholar.google.com.my/citations?user=BCMmCnsAAAAJ&hl=en"><img src="https://img.shields.io/badge/h--index-26-457B9D?style=flat-square" alt="h-index"/></a>
+  <a href="https://scholar.google.com.my/citations?user=BCMmCnsAAAAJ&hl=en"><img src="https://img.shields.io/badge/Journal%20articles-33-2A9D8F?style=flat-square" alt="Journal articles"/></a>
+  <a href="https://scholar.google.com.my/citations?user=BCMmCnsAAAAJ&hl=en"><img src="https://img.shields.io/badge/Q1%20papers-20-6A994E?style=flat-square" alt="Q1 papers"/></a>
+  <a href="#-patents"><img src="https://img.shields.io/badge/German%20patents-2-E07A5F?style=flat-square" alt="German patents"/></a>
 </p>
 
 ### 👋 About me
